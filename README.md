@@ -1,65 +1,81 @@
 # Hi, I'm Dilan Chávez 👋
 
-### Aspiring Data Engineer | Frontend Developer | AI Automation Enthusiast
+### Frontend Developer | Aspiring Data Engineer | AI Automation Enthusiast
 
-I'm building my career in technology, focusing on **Data Engineering, AI-powered automation, and software development**.
+I'm building my career in technology, focusing on **Frontend Development, Data Engineering, and AI-powered automation**.
 
-I enjoy building practical projects that connect data, applications, APIs, and AI models to solve real-world problems. My approach to learning is hands-on: I experiment with new technologies, build solutions, and continuously improve my technical skills.
+I enjoy building practical projects, connecting applications through APIs, and exploring how data and Artificial Intelligence can solve real-world problems. My approach is hands-on: I build, experiment, troubleshoot, and continuously improve my skills.
 
 ## 👨‍💻 About Me
 
-- 📊 Currently learning Data Engineering, Python, SQL, and data processing.
-- 🤖 Exploring AI-powered automation using workflow tools, APIs, and Large Language Models (LLMs).
-- 💻 Experienced in frontend development through collaborative software projects.
-- 🔗 Interested in connecting applications, APIs, databases, and AI services.
-- 🐧 Working in Linux environments and exploring containerization with Docker.
-- 🚀 Focused on building practical projects while strengthening my technical foundations.
+- 💻 Frontend Developer with experience contributing to collaborative software projects.
+- 📊 Learning Data Engineering, Python, SQL, and data pipeline architecture.
+- 🤖 Exploring workflow automation using n8n, APIs, and Large Language Models (LLMs).
+- 🔗 Interested in integrating applications, databases, backend services, and AI tools.
+- 🐧 Working with Linux, Git, GitHub, and Docker.
+- 🚀 Focused on turning what I learn into practical projects and useful solutions.
 
-## 🚀 Featured Project: Riwi Asiste
+## 🚀 Featured Projects
+
+### 1. [Prismavent — Integrative Project](https://github.com/dypok/prismavent)
 
 **Role: Frontend Developer**
 
-Riwi Asiste is an integrative project designed to improve and automate attendance and incident management through a web application that connects multiple technologies.
+Prismavent is a web application designed to simplify event planning and management by bringing event organization, guest management, budgets, tasks, and service providers together in one platform.
 
-I contributed as a **Frontend Developer**, working on the user interface and user experience of the application.
+I contributed to the frontend development, helping build the user interface and application experience as part of a collaborative development team.
 
-My work focused on:
+**Technologies:** HTML5, CSS3, JavaScript, Tailwind CSS v4, FastAPI, PostgreSQL, Supabase, and Vercel.
 
-- Developing and maintaining web interfaces using React.
-- Organizing components and views to improve navigation.
-- Implementing visual and usability improvements.
-- Integrating the frontend with backend services through APIs.
-- Improving interface components for attendance and incident management workflows.
-- Using Git and GitHub as part of the development workflow.
+- [View source code on GitHub](https://github.com/dypok/prismavent)
+- [View live application](https://prismavent.vercel.app)
 
-**Project technologies:** React, JavaScript, FastAPI, PostgreSQL, Docker, and Ollama.
+### 2. [Weather Data Pipeline](https://github.com/dilandcv/Wheather-Data-Pipeline)
 
-This experience has helped me strengthen my frontend development skills, understand frontend-backend communication, and contribute to a project that integrates Artificial Intelligence services.
+**Role: Data Engineering Project**
+
+A data pipeline that collects weather information from the Open-Meteo API, validates and transforms the data, and stores it in PostgreSQL for analysis and visualization.
+
+This project allows me to practice the fundamentals of data ingestion, transformation, storage, and pipeline automation.
+
+**Technologies:** Python, Pandas, Open-Meteo API, PostgreSQL, FastAPI, and React.
+
+- [Explore the repository](https://github.com/dilandcv/Wheather-Data-Pipeline)
+
+### 3. Riwi Asiste — Attendance Management and Automation
+
+**Role: Frontend Developer**
+
+Riwi Asiste is a web application focused on improving attendance and incident management through a system that integrates software development and AI-related services.
+
+I contributed to the frontend development, working on user interfaces and integrating frontend functionality with backend services.
+
+**Technologies:** React, JavaScript, FastAPI, PostgreSQL, Docker, and Ollama.
 
 ## 🤖 My Journey into AI Automation
 
-I'm exploring how to combine traditional automation with Artificial Intelligence to create more efficient workflows and reduce repetitive manual tasks.
+I'm exploring how Artificial Intelligence and workflow automation can reduce repetitive tasks and connect different applications into useful systems.
 
-My current interests include:
+My areas of interest include:
 
 - **n8n:** Building workflows that connect applications, APIs, and external services.
-- **Large Language Models (LLMs):** Exploring how language models can classify information, interpret text, and assist with operational tasks.
+- **Large Language Models (LLMs):** Exploring text processing, classification, and AI-assisted workflows.
 - **Ollama:** Experimenting with locally running AI models.
 - **APIs and Webhooks:** Connecting services and triggering automated actions.
-- **Workflow Automation:** Identifying repetitive processes that can be streamlined.
-- **System Integration:** Combining different tools and technologies into practical solutions.
+- **Process Automation:** Identifying repetitive tasks that can be streamlined.
+- **System Integration:** Combining applications, data, and AI services to build practical solutions.
 
-My goal is to progress from simple workflows to reliable automation systems that combine business rules, data, and AI models.
+My goal is to progress from simple workflows to reliable automation systems that combine data, business rules, and AI models.
 
 ## 📊 My Journey into Data Engineering
 
-I'm building a strong foundation in Data Engineering by learning how to collect, process, transform, and store data efficiently.
+I'm developing my Data Engineering skills by learning how to collect, process, transform, and store data efficiently.
 
-The topics I'm currently exploring include:
+Currently exploring:
 
-- Building ETL/ELT data pipelines.
-- Consuming APIs and processing datasets.
-- Data modeling and storage with PostgreSQL.
+- ETL/ELT data pipelines.
+- API data ingestion and dataset processing.
+- Data modeling and PostgreSQL.
 - Medallion Architecture: Bronze, Silver, and Gold layers.
 - Workflow orchestration with Apache Airflow.
 - Distributed data processing with Apache Spark.
@@ -67,53 +83,56 @@ The topics I'm currently exploring include:
 - Analytical data formats such as Apache Parquet.
 - Data Lakes and Data Warehouses.
 
-### 🌦️ Project: Weather Data Pipeline
+I focus on understanding the fundamentals and applying them through hands-on projects.
 
-A data pipeline that collects weather information from an external API, validates and transforms the data, and stores it in PostgreSQL for analysis and visualization.
-
-**Technologies:** Python, Pandas, Open-Meteo API, PostgreSQL, FastAPI, and React.
-
-This project helps me practice API data ingestion, data processing, database integration, and building a complete data workflow.
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 **Programming Languages**
 - Python
 - SQL
 - JavaScript
+- HTML5
+- CSS3
 
-**Data Engineering**
-- Pandas
+**Frontend Development**
+- React
+- Tailwind CSS
+- REST API Integration
+
+**Backend and Databases**
+- FastAPI
 - PostgreSQL
-- ETL/ELT
-- Apache Airflow — currently learning
-- Apache Spark — currently learning
-- Apache Kafka — currently learning
+- Supabase
 
-**AI & Automation**
+**AI and Automation**
 - n8n
 - Ollama
 - Large Language Models (LLMs)
 - APIs and Webhooks
 
-**Frontend & Backend Development**
-- React
-- FastAPI
+**Data Engineering**
+- Pandas
+- ETL/ELT
+- Apache Airflow — currently learning
+- Apache Spark — currently learning
+- Apache Kafka — currently learning
+- Apache Parquet — currently learning
 
-**Development Tools**
+**Tools and Platforms**
 - Git and GitHub
 - Docker
 - Linux
+- Vercel
 
 ## 🎯 My Goals
 
-I'm working toward building a technical profile that combines three complementary areas:
+I'm working toward combining three complementary areas:
 
-- **Data Engineering:** Building reliable data pipelines and preparing data for analysis.
-- **AI Automation:** Connecting tools, workflows, and language models to reduce manual work.
-- **Software Development:** Building applications that turn technical capabilities into practical solutions.
+- **Software Development:** Building functional and maintainable web applications.
+- **Data Engineering:** Creating reliable pipelines and preparing data for analysis.
+- **AI Automation:** Connecting tools, services, and AI models to improve workflows and reduce repetitive work.
 
-I'm continuously learning, experimenting with new technologies, and documenting my progress through real projects.
+I'm continuously learning, experimenting with new technologies, and documenting my progress through practical projects.
 
 ---
 
